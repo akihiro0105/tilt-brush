@@ -441,3 +441,4 @@ QualitySettings:
   m_PerPlatformDefaultQuality:
     Android: 11
     Standalone: 2
+    Windows Store Apps: 0
