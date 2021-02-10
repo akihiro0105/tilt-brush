@@ -11962,6 +11962,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6c44b476a45c4d4dae593ca8c133975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  render: {fileID: 1851701319}
+  "Web\u30AB\u30E1\u30E9\u756A\u53F7": 0
   "\u4E0A\u4E0B\u89D2\u5EA6": 0
   "\u753B\u89D2": 40
 --- !u!20 &839665234
@@ -15504,7 +15506,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1234267055}
   - component: {fileID: 1234267054}
-  - component: {fileID: 1234267053}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -15512,19 +15513,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1234267053
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1234267052}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b79806926139cd64aa023b129904d051, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  render: {fileID: 1851701319}
 --- !u!20 &1234267054
 Camera:
   m_ObjectHideFlags: 0
